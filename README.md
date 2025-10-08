@@ -1,4 +1,4 @@
-# Modern Chat App
+# Knot
 
 This is a full-stack, real-time chat application built with a modern tech stack. It features a sleek, dark-themed, and mobile-first design.
 

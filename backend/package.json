@@ -1,5 +1,5 @@
 {
-  "name": "chat-server",
+  "name": "knot-server",
   "type": "module",
   "scripts": {
     "dev": "nodemon index.js",

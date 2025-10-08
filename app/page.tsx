@@ -41,7 +41,7 @@ export default function Page() {
         <section className="mx-auto w-full max-w-md p-4 sm:p-6">
           <Card className="bg-secondary/40 border-border p-6 sm:p-8 rounded-xl">
             <div className="mb-6 text-center">
-              <h1 className="text-balance text-2xl sm:text-3xl font-semibold">Modern Chat</h1>
+              <h1 className="text-balance text-2xl sm:text-3xl font-semibold">Knot</h1>
               <p className="text-muted-foreground mt-1 text-sm">Dark, elegant, mobile-first messaging</p>
             </div>
             <AuthForm
